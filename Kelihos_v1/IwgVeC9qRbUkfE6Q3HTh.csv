@@ -1,0 +1,17 @@
+push
+mov
+sub
+mov
+mov
+cmp
+clc
+mov
+pop
+enter
+call
+mov
+mov
+pop
+cmp
+xchg
+push

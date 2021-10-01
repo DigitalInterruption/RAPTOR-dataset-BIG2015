@@ -1,0 +1,13 @@
+push
+push
+call
+jnp
+push
+inc
+sub
+scasb
+dec
+fsubr
+mov
+inc
+sbb

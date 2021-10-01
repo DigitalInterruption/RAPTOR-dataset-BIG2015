@@ -1,0 +1,10 @@
+push
+push
+sub
+sub
+or
+call
+jle
+sub
+mov
+and
